@@ -29,3 +29,5 @@ app.put('/team', (req, res) => {
 app.listen(port, () => {
     console.log(`Server started at port ${port}`);
 });
+
+exports.app = app;

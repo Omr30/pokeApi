@@ -2,8 +2,16 @@
   "name": "pokeApi",
   "version": "1.0.0",
   "main": "app.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "chai-http": "^4.3.0",
+    "mocha": "^9.1.3"
   }
 }
