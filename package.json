@@ -13,5 +13,7 @@
     "chai": "^4.3.4",
     "chai-http": "^4.3.0",
     "mocha": "^9.1.3"
-  }
+  },
+  "repository": "git@github.com:Omr30/pokeApi.git",
+  "author": "ozkr <oscarmenacho23@gmail.com>"
 }
